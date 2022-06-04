@@ -1,0 +1,3 @@
+In order to run the application, run the following commands with a terminal : 
+make
+./build/exec
